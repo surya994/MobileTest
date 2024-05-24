@@ -24,4 +24,5 @@ Automate login from sample application [WebdriverIO Demo App](https://github.com
 
 **Note:**
 1. You can change desired capability in **wdio.conf.js** file
+2. Demo video [running test](https://drive.google.com/file/d/14g_MWkLJxhb1iCfchK4rCrA1EFKW3X8l/view?usp=sharing)
 
