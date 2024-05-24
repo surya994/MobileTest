@@ -2,7 +2,8 @@
 
 ## Introduction
 This mobile automation demo using Appium and WebdriverIO Framework with Allure reporting.
-Automate login from [WebdriverIO Demo App](https://github.com/webdriverio/native-demo-app).
+
+Automate login from sample application [WebdriverIO Demo App](https://github.com/webdriverio/native-demo-app).
 
 ## How to use?
 
